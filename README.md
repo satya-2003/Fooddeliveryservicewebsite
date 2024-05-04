@@ -13,6 +13,7 @@ Easy to Customize: Simple HTML, CSS, and JS structure that you can adapt to your
 
 Interactive UI: Enhanced user experience with JavaScript-driven interactivity.
 
+ Responsive Shopping Cart
 
  # Use of this project
 Whether you're launching a new food delivery service or redesigning an existing one, this template provides a solid foundation to build upon. Dive into the code, customize it to fit your brand, and launch your project faster!
