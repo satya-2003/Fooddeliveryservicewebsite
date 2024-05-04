@@ -1,4 +1,4 @@
-# Fooddeliveryservicewebsite
+# Food delivery service website
 
 https://github.com/satya-2003/Fooddeliveryservicewebsite/new/main?readme=1
 
