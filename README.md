@@ -6,7 +6,9 @@ Welcome to the repository for my Online Food Delivery Service Website Template! 
 
 Features of this project:
 Responsive Design: Looks great on both desktop and mobile devices.
+
 Easy to Customize: Simple HTML, CSS, and JS structure that you can adapt to your needs.
+
 Interactive UI: Enhanced user experience with JavaScript-driven interactivity.
 
 
