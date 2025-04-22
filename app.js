@@ -53,4 +53,24 @@ function updateCartCountAndTotal() {
     cartTotal.textContent = total.toFixed(2); 
 }
 
+JavaScript (for menu category filtering functionality):
 
+// Select all filter buttons and food cards
+const filterButtons = document.querySelectorAll('.filter-btn');
+const foodCards = document.querySelectorAll('.food-card');
+
+// Add event listener to each filter button
+filterButtons.forEach(button => {
+    button.addEventListener('click', () => {
+        const category = button.getAttribute('data-category'); // Get category from button
+
+        // Loop through each food card and toggle visibility based on category
+        foodCards.forEach(card => {
+            if (category === 'all') {
+                card.style.display = 'block'; // Show all
+            } else {
+                card.classList.contains(category) ? card.style.display = 'block' : card.style.display = 'none';
+            }
+        });
+    });
+});
